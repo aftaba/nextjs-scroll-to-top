@@ -1,9 +1,9 @@
 
-# scroll-to-top
+# nextjs-scroll-to-top
 
 A lightweight React component that adds a customizable Scroll to Top button.
 
 ## Installation
 
 ```bash
-npm install scroll-to-top
+npm install nextjs-scroll-to-top
